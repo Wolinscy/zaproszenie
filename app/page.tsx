@@ -85,7 +85,7 @@ export default function Home() {
           </div>
 
           <div className="w-3/4 mx-auto">
-            <img src="/strona-slubna/photos/dresscode.svg" alt="Grafika opisująca dresscode, oraz trzy zdjęcia pary młodej z budki" />
+            <img src="/strona-slubna/photos/dresscode.png" alt="Grafika opisująca dresscode, oraz trzy zdjęcia pary młodej z budki" />
           </div>
 
           <div className="w-1/8 min-w-24 mx-auto mt-6 md:mt-8 lg:mt-10 xl:mt-12 2xl:mt-14">
