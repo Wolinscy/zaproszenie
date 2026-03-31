@@ -1,13 +1,4 @@
 :HL["/strona-slubna/_next/static/chunks/0hs~e6cd8wmt..css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap","style"]
 :HL["https://fonts.googleapis.com/icon?family=Material+Icons","style"]
-:HL["/photos/kwiaty.jpeg","image"]
-:HL["/photos/lorena-krystian.svg","image"]
-:HL["/photos/golobki.svg","image"]
-:HL["/photos/wstega2.svg","image"]
-:HL["/photos/dresscode.svg","image"]
-:HL["/photos/wstega1.svg","image"]
-:HL["/photos/palac.png","image"]
-:HL["/photos/zyrandol.svg","image"]
-:HL["/photos/widzimy-sie.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"gmF5KBViMm35YfyBZ68Lj"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"IEUnbim6spMCYtZBuiI3R"}
