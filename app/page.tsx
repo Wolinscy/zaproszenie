@@ -18,7 +18,7 @@ export default function Home() {
           </div>
 
           <div className="text-center font-semibold text-lg lg:text-2xl xl:text-3xl mt-6 md:mt-8 lg:mt-10 xl:mt-12 2xl:mt-14">
-            <p>SERDZECZNIE ZAPRASZAMY</p>
+            <p>SERDECZNIE ZAPRASZAMY</p>
             <p>NA NASZ ŚLUB I WESELE</p>
           </div>
 
@@ -55,15 +55,12 @@ export default function Home() {
 
           <div className="text-center px-18 md:text-lg xl:text-xl mt-6 lg:mt-10 2xl:mt-14">
             <div className="hidden md:block">
-              <p>NA MALOWNICZY TEREN PAŁACU ZAPRASZAMY OD GODZINY <span className="text-xl xl:text-2xl">15:30</span>,</p>
-              <p>CZĘŚĆ OFICJALNA ROZPOCZNIE SIĘ O <span className="text-xl xl:text-2xl">16:00</span></p>
+              <p>NA MALOWNICZY TEREN PAŁACU ZAPRASZAMY OD GODZINY <span className="text-xl xl:text-2xl">16:00</span></p>
             </div>
 
             <div className="md:hidden">              
               <p>NA MALOWNICZY TEREN PAŁACU</p>
-              <p>ZAPRASZAMY OD GODZINY <span className="text-xl xl:text-2xl">15:30</span>,</p>
-              <p>CZĘŚĆ OFICJALNA</p>
-              <p>ROZPOCZNIE SIĘ O <span className="text-xl xl:text-2xl">16:00</span></p>
+              <p>ZAPRASZAMY OD GODZINY <span className="text-xl xl:text-2xl">16:00</span></p>
             </div>
           </div>
 
@@ -97,11 +94,11 @@ export default function Home() {
 
             <img src="/strona-slubna/photos/zyrandol.svg" 
                  alt="Grafika żyrandolu bankietowego" 
-                 className="absolute top-10 w-1/10 left-9/20"/>
+                 className="absolute top-1/25 w-1/10 left-9/20"/>
 
             <img src="/strona-slubna/photos/widzimy-sie.svg" 
                  alt="Grafika żyrandolu bankietowego" 
-                 className="absolute bottom-10 w-3/5 left-1/5"/>
+                 className="absolute bottom-1/25 w-3/5 left-1/5"/>
           </div>
         </div>
       </section>
