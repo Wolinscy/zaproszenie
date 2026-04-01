@@ -6,5 +6,7 @@
 }
 
 body {
-  background-color: #FDF4EB;
+  background-image: url('/strona-slubna/photos/bg-texture.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
