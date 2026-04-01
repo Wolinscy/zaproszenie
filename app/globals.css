@@ -7,6 +7,6 @@
 
 body {
   background-image: url('/strona-slubna/photos/bg-texture.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-repeat: repeat;
+  background-size: 1000px 1000px;
 }
