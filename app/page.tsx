@@ -27,29 +27,41 @@ export default function Home() {
             <div className="hidden md:block">
               <p>CEREMONIA ZAŚLUBIN ODBĘDZIE SIĘ W DNIU <span className="text-2xl xl:text-3xl">02.05.2026</span></p>
               <p>O GODZINIE <span className="text-2xl xl:text-3xl">12:30</span> W PAŁACU ŚLUBÓW</p>
-              <p className="text-sm lg:text-lg mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> PLAC ZAMKOWY 6, 00-281 WARSZAWA</p>
+              <p className="text-sm lg:text-lg mt-2">
+                <a href="https://maps.app.goo.gl/wU35bnm6inVNKRMs8" target="_blank"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> 
+                PLAC ZAMKOWY 6, 00-281 WARSZAWA</a>
+              </p>
             </div>
 
             <div className="md:hidden">
               <p>CEREMONIA ZAŚLUBIN ODBĘDZIE SIĘ</p>
               <p>W DNIU <span className="text-xl xl:text-2xl">02.05.2026</span></p>
               <p>O GODZINIE <span className="text-xl xl:text-2xl">12:30</span> W PAŁACU ŚLUBÓW</p>
-              <p className="text-sm lg:text-lg mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> PLAC ZAMKOWY 6, 00-281 WARSZAWA</p>
+              <p className="text-sm lg:text-lg mt-2">
+                <a href="https://maps.app.goo.gl/wU35bnm6inVNKRMs8" target="_blank"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span>
+                 PLAC ZAMKOWY 6, 00-281 WARSZAWA</a>
+              </p>
             </div>
           </div>
 
           <div className="text-center px-10 text-xl xl:text-2xl mt-12 lg:mt-16 2xl:mt-20">
             <div className="hidden md:block">
-              <p>NASTĘPNIE ZAPRASZAMY NA WESELE</p>
+              <p>NASTĘPNIE ZAPRASZAMY NA PRZYJĘCIE WESELNE</p>
               <p>W PAŁACU KRZYKOSY</p>
-              <p className="text-sm lg:text-lg mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> KRZYKOSY 48, 09-454 KRZYKOSY</p>
+              <p className="text-sm lg:text-lg mt-2">
+                <a href="https://maps.app.goo.gl/tq5bCkT6TxhzB7m86" target="_blank"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> 
+                KRZYKOSY 48, 09-454 KRZYKOSY</a>
+              </p>
             </div>
 
             <div className="md:hidden">
               <p>NASTĘPNIE ZAPRASZAMY</p>
-              <p>NA WESELE</p>
+              <p>NA PRZYJĘCIE WESELNE</p>
               <p>W PAŁACU KRZYKOSY</p>
-              <p className="text-sm lg:text-lg mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> KRZYKOSY 48, 09-454 KRZYKOSY</p>
+              <p className="text-sm lg:text-lg mt-2">
+                <a href="https://maps.app.goo.gl/tq5bCkT6TxhzB7m86" target="_blank"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> 
+                KRZYKOSY 48, 09-454 KRZYKOSY</a>
+              </p>
             </div>
           </div>
 
