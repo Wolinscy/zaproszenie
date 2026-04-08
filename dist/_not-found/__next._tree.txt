@@ -1,4 +1,4 @@
-:HL["/strona-slubna/_next/static/chunks/0228qrj-xtk33.css","style"]
+:HL["/strona-slubna/_next/static/chunks/0wf8buuxsynjg.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap","style"]
 :HL["https://fonts.googleapis.com/icon?family=Material+Icons","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"IMQgoxX6Q2Ph_FlYnOyRz"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"hI2jYxGfhPHxmGHLwwKDm"}
