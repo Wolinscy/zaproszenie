@@ -66,13 +66,13 @@ export default function Home() {
 
           <div className="text-center px-10 text-xl xl:text-2xl mt-6 lg:mt-10 2xl:mt-14">
             <div className="hidden md:block">
-              <p>NA MIEJSCU BĘDZIE ZAPEWNIONY BUFET, ALKOHOL ORAZ OGNISKO.</p>
+              <p>NA MIEJSCU BĘDZIE ZAPEWNIONY BUFET, ALKOHOL.</p>
               <p>JEMY, PIJEMY I TAŃCZYMY DO RANA!</p>
             </div>
 
             <div className="md:hidden">
               <p>NA MIEJSCU BĘDZIE ZAPEWNIONY</p>
-              <p> BUFET, ALKOHOL ORAZ OGNISKO.</p>
+              <p> BUFET, ALKOHOL.</p>
               <p>JEMY, PIJEMY I TAŃCZYMY DO RANA!</p>
             </div>
           </div>
@@ -85,7 +85,7 @@ export default function Home() {
             <img src="/strona-slubna/photos/dresscode.png" alt="Grafika opisująca dresscode, oraz trzy zdjęcia pary młodej z budki" />
           </div>
 
-          <div className="w-1/8 min-w-24 mx-auto mt-6 md:mt-8 lg:mt-10 xl:mt-12 2xl:mt-14">
+          <div className="w-1/12 min-w-18 mx-auto mt-6 md:mt-8 lg:mt-10 xl:mt-12 2xl:mt-14">
             <img src="/strona-slubna/photos/wstega1.svg" alt="Wstęga ozdobna" />
           </div>
 
