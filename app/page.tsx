@@ -3,8 +3,8 @@ export default function Home() {
     <main className="max-w-480 m-auto min-w-97.5">
       
       <section className="top-bunner">
-        <div className="w-full relative">
-          <img src="/zaproszenie/photos/kwiaty.jpeg" alt="Zdjęcie wiosennych kwiatów" className="w-full max-h-175" />
+        <div className="w-full relative max-h-175 overflow-y-hidden">
+          <img src="/zaproszenie/photos/kwiaty.jpeg" alt="Zdjęcie wiosennych kwiatów" className="w-full" />
           <div className="absolute top-17/48 left-1/8 w-6/8 2xl:top-19/48 2xl:left-1/4 2xl:w-1/2">
             <img src="/zaproszenie/photos/lorena-krystian.svg" alt="Lorena i Krystian" className="w-full" style={{ paddingLeft: '10%' }} />
           </div>
