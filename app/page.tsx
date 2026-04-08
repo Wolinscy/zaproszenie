@@ -4,9 +4,9 @@ export default function Home() {
       
       <section className="top-bunner">
         <div className="w-full relative">
-          <img src="/strona-slubna/photos/kwiaty.jpeg" alt="Zdjęcie wiosennych kwiatów" className="w-full max-h-175" />
+          <img src="/zaproszenie/photos/kwiaty.jpeg" alt="Zdjęcie wiosennych kwiatów" className="w-full max-h-175" />
           <div className="absolute top-17/48 left-1/8 w-6/8 2xl:top-19/48 2xl:left-1/4 2xl:w-1/2">
-            <img src="/strona-slubna/photos/lorena-krystian.svg" alt="Lorena i Krystian" className="w-full" style={{ paddingLeft: '10%' }} />
+            <img src="/zaproszenie/photos/lorena-krystian.svg" alt="Lorena i Krystian" className="w-full" style={{ paddingLeft: '10%' }} />
           </div>
         </div>
       </section>
@@ -14,7 +14,7 @@ export default function Home() {
       <section className="invitation-content mt-10 md:mt-12 lg:mt-14 xl:mt-16 2xl:mt-20">
         <div className="w-full">
           <div className="w-1/8 min-w-24 mx-auto">
-            <img src="/strona-slubna/photos/golobki.svg" alt="Grafika z dwoma gołąbkami z obrączkami" />
+            <img src="/zaproszenie/photos/golobki.svg" alt="Grafika z dwoma gołąbkami z obrączkami" />
           </div>
 
           <div className="text-center font-semibold text-2xl lg:text-3xl xl:text-4xl mt-6 md:mt-8 lg:mt-10 xl:mt-12 2xl:mt-14">
@@ -90,25 +90,25 @@ export default function Home() {
           </div>
 
           <div className="w-1/12 min-w-18 mx-auto mt-6 md:mt-8 lg:mt-10 xl:mt-12 2xl:mt-14">
-            <img src="/strona-slubna/photos/wstega2.svg" alt="Wstęga ozdobna" />
+            <img src="/zaproszenie/photos/wstega2.svg" alt="Wstęga ozdobna" />
           </div>
 
           <div className="w-4/5 lg:w-1/2 mx-auto">
-            <img src="/strona-slubna/photos/dresscode.png" alt="Grafika opisująca dresscode, oraz trzy zdjęcia pary młodej z budki" />
+            <img src="/zaproszenie/photos/dresscode.png" alt="Grafika opisująca dresscode, oraz trzy zdjęcia pary młodej z budki" />
           </div>
 
           <div className="w-1/12 min-w-18 mx-auto mt-6 md:mt-8 lg:mt-10 xl:mt-12 2xl:mt-14">
-            <img src="/strona-slubna/photos/wstega1.svg" alt="Wstęga ozdobna" />
+            <img src="/zaproszenie/photos/wstega1.svg" alt="Wstęga ozdobna" />
           </div>
 
           <div className="w-full relative mt-6 md:mt-8 lg:mt-10 xl:mt-12 2xl:mt-14">
-            <img src="/strona-slubna/photos/palac.png" alt="Zdjęcie pałacu w Krzykosach" className="w-full"/>
+            <img src="/zaproszenie/photos/palac.png" alt="Zdjęcie pałacu w Krzykosach" className="w-full"/>
 
-            <img src="/strona-slubna/photos/zyrandol.svg" 
+            <img src="/zaproszenie/photos/zyrandol.svg" 
                  alt="Grafika żyrandolu bankietowego" 
                  className="absolute top-1/25 w-1/10 left-9/20"/>
 
-            <img src="/strona-slubna/photos/widzimy-sie.svg" 
+            <img src="/zaproszenie/photos/widzimy-sie.svg" 
                  alt="Grafika żyrandolu bankietowego" 
                  className="absolute bottom-1/25 w-3/5 left-1/5"/>
           </div>

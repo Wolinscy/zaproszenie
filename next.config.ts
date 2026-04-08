@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  basePath: "/strona-slubna",
+  basePath: "/zaproszenie",
   output: "export",
   distDir: "dist",
   images: {
