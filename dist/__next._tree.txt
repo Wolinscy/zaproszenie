@@ -1,4 +1,4 @@
-:HL["/zaproszenie/_next/static/chunks/081tyrm921kxs.css","style"]
+:HL["/zaproszenie/_next/static/chunks/0~9s4sw6gsy2..css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap","style"]
 :HL["https://fonts.googleapis.com/icon?family=Material+Icons","style"]
 :HL["/zaproszenie/photos/kwiaty.jpeg","image"]
@@ -10,4 +10,4 @@
 :HL["/zaproszenie/photos/palac.png","image"]
 :HL["/zaproszenie/photos/zyrandol.svg","image"]
 :HL["/zaproszenie/photos/widzimy-sie.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"lVbSNFUUC_odbSQ5cI5RX"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"5gMOa5C2xjd8ePuyFdveN"}
