@@ -17,45 +17,45 @@ export default function Home() {
             <img src="/strona-slubna/photos/golobki.svg" alt="Grafika z dwoma gołąbkami z obrączkami" />
           </div>
 
-          <div className="text-center font-semibold text-lg lg:text-2xl xl:text-3xl mt-6 md:mt-8 lg:mt-10 xl:mt-12 2xl:mt-14">
+          <div className="text-center font-semibold text-2xl lg:text-3xl xl:text-4xl mt-6 md:mt-8 lg:mt-10 xl:mt-12 2xl:mt-14">
             <p>SERDECZNIE ZAPRASZAMY</p>
             <p>NA NASZ ŚLUB I WESELE</p>
           </div>
 
 
-          <div className="text-center px-18 md:text-lg xl:text-xl mt-12 lg:mt-16 2xl:mt-20">
+          <div className="text-center px-10 text-xl xl:text-2xl mt-12 lg:mt-16 2xl:mt-20">
             <div className="hidden md:block">
-              <p>CEREMONIA ZAŚLUBIN ODBĘDZIE SIĘ W DNIU <span className="text-xl xl:text-2xl">02.05.2026</span></p>
-              <p>O GODZINIE <span className="text-xl xl:text-2xl">12:30</span> W PAŁACU ŚLUBÓW</p>
-              <p className="text-xs lg:text-base mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> PLAC ZAMKOWY 6, 00-281 WARSZAWA</p>
+              <p>CEREMONIA ZAŚLUBIN ODBĘDZIE SIĘ W DNIU <span className="text-2xl xl:text-3xl">02.05.2026</span></p>
+              <p>O GODZINIE <span className="text-2xl xl:text-3xl">12:30</span> W PAŁACU ŚLUBÓW</p>
+              <p className="text-sm lg:text-lg mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> PLAC ZAMKOWY 6, 00-281 WARSZAWA</p>
             </div>
 
             <div className="md:hidden">
               <p>CEREMONIA ZAŚLUBIN ODBĘDZIE SIĘ</p>
               <p>W DNIU <span className="text-xl xl:text-2xl">02.05.2026</span></p>
               <p>O GODZINIE <span className="text-xl xl:text-2xl">12:30</span> W PAŁACU ŚLUBÓW</p>
-              <p className="text-xs lg:text-base mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> PLAC ZAMKOWY 6, 00-281 WARSZAWA</p>
+              <p className="text-sm lg:text-lg mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> PLAC ZAMKOWY 6, 00-281 WARSZAWA</p>
             </div>
           </div>
 
-          <div className="text-center px-18 md:text-lg xl:text-xl mt-12 lg:mt-16 2xl:mt-20">
+          <div className="text-center px-10 text-xl xl:text-2xl mt-12 lg:mt-16 2xl:mt-20">
             <div className="hidden md:block">
               <p>NASTĘPNIE ZAPRASZAMY NA WESELE</p>
               <p>W PAŁACU KRZYKOSY</p>
-              <p className="text-xs lg:text-base mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> KRZYKOSY 48, 09-454 KRZYKOSY</p>
+              <p className="text-sm lg:text-lg mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> KRZYKOSY 48, 09-454 KRZYKOSY</p>
             </div>
 
             <div className="md:hidden">
               <p>NASTĘPNIE ZAPRASZAMY</p>
               <p>NA WESELE</p>
               <p>W PAŁACU KRZYKOSY</p>
-              <p className="text-xs lg:text-base mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> KRZYKOSY 48, 09-454 KRZYKOSY</p>
+              <p className="text-sm lg:text-lg mt-2"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> KRZYKOSY 48, 09-454 KRZYKOSY</p>
             </div>
           </div>
 
-          <div className="text-center px-18 md:text-lg xl:text-xl mt-6 lg:mt-10 2xl:mt-14">
+          <div className="text-center px-10 text-xl xl:text-2xl mt-6 lg:mt-10 2xl:mt-14">
             <div className="hidden md:block">
-              <p>NA MALOWNICZY TEREN PAŁACU ZAPRASZAMY OD GODZINY <span className="text-xl xl:text-2xl">16:00</span></p>
+              <p>NA MALOWNICZY TEREN PAŁACU ZAPRASZAMY OD GODZINY <span className="text-2xl xl:text-3xl">16:00</span></p>
             </div>
 
             <div className="md:hidden">              
@@ -64,7 +64,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="text-center px-18 md:text-lg xl:text-xl mt-6 lg:mt-10 2xl:mt-14">
+          <div className="text-center px-10 text-xl xl:text-2xl mt-6 lg:mt-10 2xl:mt-14">
             <div className="hidden md:block">
               <p>NA MIEJSCU BĘDZIE ZAPEWNIONY BUFET, ALKOHOL ORAZ OGNISKO.</p>
               <p>JEMY, PIJEMY I TAŃCZYMY DO RANA!</p>
@@ -81,7 +81,7 @@ export default function Home() {
             <img src="/strona-slubna/photos/wstega2.svg" alt="Wstęga ozdobna" />
           </div>
 
-          <div className="w-3/4 mx-auto">
+          <div className="w-4/5 lg:w-1/2 mx-auto">
             <img src="/strona-slubna/photos/dresscode.png" alt="Grafika opisująca dresscode, oraz trzy zdjęcia pary młodej z budki" />
           </div>
 
