@@ -27,7 +27,7 @@ export default function Home() {
             <div className="hidden md:block">
               <p>CEREMONIA ZAŚLUBIN ODBĘDZIE SIĘ W DNIU <span className="text-2xl xl:text-3xl">02.05.2026</span></p>
               <p>O GODZINIE <span className="text-2xl xl:text-3xl">12:30</span> W PAŁACU ŚLUBÓW</p>
-              <p className="text-sm lg:text-lg mt-2">
+              <p className="text-sm lg:text-lg mt-2 underline">
                 <a href="https://maps.app.goo.gl/wU35bnm6inVNKRMs8" target="_blank"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> 
                 PLAC ZAMKOWY 6, 00-281 WARSZAWA</a>
               </p>
@@ -37,7 +37,7 @@ export default function Home() {
               <p>CEREMONIA ZAŚLUBIN ODBĘDZIE SIĘ</p>
               <p>W DNIU <span className="text-xl xl:text-2xl">02.05.2026</span></p>
               <p>O GODZINIE <span className="text-xl xl:text-2xl">12:30</span> W PAŁACU ŚLUBÓW</p>
-              <p className="text-sm lg:text-lg mt-2">
+              <p className="text-sm lg:text-lg mt-2 underline">
                 <a href="https://maps.app.goo.gl/wU35bnm6inVNKRMs8" target="_blank"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span>
                  PLAC ZAMKOWY 6, 00-281 WARSZAWA</a>
               </p>
@@ -48,7 +48,7 @@ export default function Home() {
             <div className="hidden md:block">
               <p>NASTĘPNIE ZAPRASZAMY NA PRZYJĘCIE WESELNE</p>
               <p>W PAŁACU KRZYKOSY</p>
-              <p className="text-sm lg:text-lg mt-2">
+              <p className="text-sm lg:text-lg mt-2 underline">
                 <a href="https://maps.app.goo.gl/tq5bCkT6TxhzB7m86" target="_blank"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> 
                 KRZYKOSY 48, 09-454 KRZYKOSY</a>
               </p>
@@ -58,7 +58,7 @@ export default function Home() {
               <p>NASTĘPNIE ZAPRASZAMY</p>
               <p>NA PRZYJĘCIE WESELNE</p>
               <p>W PAŁACU KRZYKOSY</p>
-              <p className="text-sm lg:text-lg mt-2">
+              <p className="text-sm lg:text-lg mt-2 underline">
                 <a href="https://maps.app.goo.gl/tq5bCkT6TxhzB7m86" target="_blank"><span className="material-icons" style={{ fontSize: '1rem', position: 'relative', top: '2px' }}>location_on</span> 
                 KRZYKOSY 48, 09-454 KRZYKOSY</a>
               </p>
@@ -78,13 +78,13 @@ export default function Home() {
 
           <div className="text-center px-6 text-xl xl:text-2xl mt-6 lg:mt-10 2xl:mt-14">
             <div className="hidden md:block">
-              <p>NA MIEJSCU BĘDZIE ZAPEWNIONY BUFET, ALKOHOL.</p>
+              <p>NA MIEJSCU BĘDZIE ZAPEWNIONY BUFET I ALKOHOL.</p>
               <p>JEMY, PIJEMY I TAŃCZYMY DO RANA!</p>
             </div>
 
             <div className="md:hidden">
               <p>NA MIEJSCU BĘDZIE ZAPEWNIONY</p>
-              <p> BUFET, ALKOHOL.</p>
+              <p> BUFET I ALKOHOL.</p>
               <p>JEMY, PIJEMY I TAŃCZYMY DO RANA!</p>
             </div>
           </div>

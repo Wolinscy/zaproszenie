@@ -1,4 +1,4 @@
-:HL["/strona-slubna/_next/static/chunks/0k5mb3g3can88.css","style"]
+:HL["/strona-slubna/_next/static/chunks/0.80fsandp8~s.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap","style"]
 :HL["https://fonts.googleapis.com/icon?family=Material+Icons","style"]
 :HL["/strona-slubna/photos/kwiaty.jpeg","image"]
@@ -10,4 +10,4 @@
 :HL["/strona-slubna/photos/palac.png","image"]
 :HL["/strona-slubna/photos/zyrandol.svg","image"]
 :HL["/strona-slubna/photos/widzimy-sie.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"YJRaHlFhulfmcw5uBBpJO"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Z_OktXcoamVFRIikQMxhR"}
