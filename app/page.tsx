@@ -23,7 +23,7 @@ export default function Home() {
           </div>
 
 
-          <div className="text-center px-10 text-xl xl:text-2xl mt-12 lg:mt-16 2xl:mt-20">
+          <div className="text-center px-6 text-xl xl:text-2xl mt-12 lg:mt-16 2xl:mt-20">
             <div className="hidden md:block">
               <p>CEREMONIA ZAŚLUBIN ODBĘDZIE SIĘ W DNIU <span className="text-2xl xl:text-3xl">02.05.2026</span></p>
               <p>O GODZINIE <span className="text-2xl xl:text-3xl">12:30</span> W PAŁACU ŚLUBÓW</p>
@@ -44,7 +44,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="text-center px-10 text-xl xl:text-2xl mt-12 lg:mt-16 2xl:mt-20">
+          <div className="text-center px-6 text-xl xl:text-2xl mt-12 lg:mt-16 2xl:mt-20">
             <div className="hidden md:block">
               <p>NASTĘPNIE ZAPRASZAMY NA PRZYJĘCIE WESELNE</p>
               <p>W PAŁACU KRZYKOSY</p>
@@ -65,7 +65,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="text-center px-10 text-xl xl:text-2xl mt-6 lg:mt-10 2xl:mt-14">
+          <div className="text-center px-6 text-xl xl:text-2xl mt-6 lg:mt-10 2xl:mt-14">
             <div className="hidden md:block">
               <p>NA MALOWNICZY TEREN PAŁACU ZAPRASZAMY OD GODZINY <span className="text-2xl xl:text-3xl">16:00</span></p>
             </div>
@@ -76,7 +76,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="text-center px-10 text-xl xl:text-2xl mt-6 lg:mt-10 2xl:mt-14">
+          <div className="text-center px-6 text-xl xl:text-2xl mt-6 lg:mt-10 2xl:mt-14">
             <div className="hidden md:block">
               <p>NA MIEJSCU BĘDZIE ZAPEWNIONY BUFET, ALKOHOL.</p>
               <p>JEMY, PIJEMY I TAŃCZYMY DO RANA!</p>
